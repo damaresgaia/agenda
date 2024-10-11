@@ -41,7 +41,6 @@ public class Controller extends HttpServlet {
 	}
 
 	// Novo contato
-	// Comentário teste
 	protected void novoContato(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		// setar as variáveis JavaBeans 
