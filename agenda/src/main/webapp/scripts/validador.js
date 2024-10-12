@@ -1,5 +1,5 @@
 /**
- * Validação de formulário
+ * Validar campos obrigatorios
  * @author Damares Gaia
  */
 
